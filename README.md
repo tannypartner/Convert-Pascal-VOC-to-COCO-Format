@@ -64,6 +64,12 @@ optional arguments:
 
 [2020-09-07] create this repository.
 
+## Reference
+
+- [torchvision.datasets — PyTorch 1.6.0 documentation](https://pytorch.org/docs/stable/torchvision/datasets.html)
+- [COCO Formatの作り方 - Qiita](https://qiita.com/harmegiddo/items/da131ae5bcddbbbde41f)
+- [cocodataset/cocoapi: COCO API - GitHub](https://github.com/cocodataset/cocoapi)
+
 ## License
 
 MIT License
